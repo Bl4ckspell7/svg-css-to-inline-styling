@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 10 H 90 V 90 H 10 Z" fill="#fff" />
+  <path d="M20 20 H 80 V 80 H 20 Z" fill="#37474f" />
+  <path d="M30 30 H 70 V 70 H 30 Z" fill="#46509e" />
+</svg>
