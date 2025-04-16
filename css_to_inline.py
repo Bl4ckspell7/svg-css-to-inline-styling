@@ -95,6 +95,13 @@ def convert_svg_to_inline(input_file, output_file):
 
 
 # Example Usage
-input_svg = "test.svg"  # Replace with the path to your SVG file
-output_svg = "test" + "_inlinestyle.svg"
-convert_svg_to_inline(input_svg, output_svg)
+INPUT_SVG = "test.svg"  # Replace with the path to your SVG file
+OUTPUT_SVG = "test" + "_inlinestyle.svg"
+
+
+def main():
+    convert_svg_to_inline(INPUT_SVG, OUTPUT_SVG)
+
+
+if __name__ == "__main__":
+    main()
