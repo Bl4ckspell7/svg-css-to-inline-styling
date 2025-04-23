@@ -1,6 +1,7 @@
-import cssutils
-import xml.etree.ElementTree as ET
 import logging
+import xml.etree.ElementTree as ET
+
+import cssutils
 
 # Suppress cssutils warnings
 cssutils.log.setLevel(logging.ERROR)
